@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hardy @DaHNZ
 - 👀 I’m interested in Java programming with the Spring framework
-- 🌱 I’m currently learning Java wirh Spring Cloud
+- 🌱 I’m currently learning Java with Spring Cloud
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me hans.joerg.harders@gmail.com
 
